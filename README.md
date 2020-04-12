@@ -1,3 +1,20 @@
 # CS201-Fundamental-Structures-Of-Computer-Science
 These are the homework which i have implemented in my CS201 course during college.
 I thought about having the code fo these homework online might be of help for me in the future.
+
+
+The list of Homeworks are:
+Homework 1 - Film Management System using Dynamically Allocated Arrays
+Homework 2 - Time Complexity Analaysis of Algorithms (NOT INCLUDED)
+Homework 3 - Book Collection System using Linked Lists
+
+
+The following files belong to Homework 1:
+Student.cpp
+Student.h
+Coruse.cpp
+Course.h
+RegistrationSytem.cpp
+RegistrationSystem.h
+
+The following files belong to Homework 2:
