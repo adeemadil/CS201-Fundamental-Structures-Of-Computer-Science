@@ -18,6 +18,7 @@ RegistrationSytem.cpp
 RegistrationSystem.h
 
 The following files belong to Homework 2:
-cs201_hw2.pdf
-fall19_cs201_hw2.docx
-fall19_cs201_hw2.pdf
+cs201_hw2.pdf, 
+fall19_cs201_hw2.docx, 
+fall19_cs201_hw2.pdf, 
+Source (fall19_cs201_hw2).cpp
