@@ -23,3 +23,14 @@ cs201_hw2.pdf,
 fall19_cs201_hw2.docx, 
 fall19_cs201_hw2.pdf, 
 Source (fall19_cs201_hw2).cpp
+
+The following files belong to Homework 3:
+Part A:
+
+Part B:
+
+The following files belong to Homework 4:
+AlgebraicExpression.h
+AlgebraicExpression.cpp
+Stack.h
+Stack.cpp
