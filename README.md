@@ -30,7 +30,14 @@ SimpleReg.cpp
 SimpleReg.h
 SimpleTeam.cpp
 SimpleTeam.h
+
 Part B:
+CompleteReg.cpp
+CompleteReg.h
+Player.h
+Player.cpp
+Team.h
+Team.cpp
 
 The following files belong to Homework 4:
 AlgebraicExpression.h
