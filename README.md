@@ -6,7 +6,8 @@ I thought about having the code fo these homework online might be of help for me
 The list of Homeworks are:
 Homework 1 - Student's Registration System using Dynamically Allocated Arrays, 
 Homework 2 - Time Complexity Analaysis of Algorithms ,
-Homework 3 - Book Collection System using Linked Lists (NOT INCLUDED)
+Homework 3 - Book Collection System using Linked Lists
+Homework 4 - Using Stacks in conversion infix to Prefix And Evaluation of Prefix
 
 
 The following files belong to Homework 1:
