@@ -26,7 +26,10 @@ Source (fall19_cs201_hw2).cpp
 
 The following files belong to Homework 3:
 Part A:
-
+SimpleReg.cpp
+SimpleReg.h
+SimpleTeam.cpp
+SimpleTeam.h
 Part B:
 
 The following files belong to Homework 4:
